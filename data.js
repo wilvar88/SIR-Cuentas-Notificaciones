@@ -118,9 +118,9 @@ window.BUTTONS = [
 
   {
     x: 82.9, y: 89.3, // Menu SIR
-    label: "self",
+    label: "Menú SIR",
     href: "https://wilvar88.github.io/SIR-Men-/",
-    target: "blank",
+    target: "self",
     // Si quieres totalmente transparente, puedes usar la variante 'transparent'
     // (ojo: pone background transparente con !important)
     variant: "transparent",
